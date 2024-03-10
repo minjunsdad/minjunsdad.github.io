@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows cmd 명령어 모음"
+title:  "Windows cmd 명령어 모음 (2022.10.02)"
 ---
 
 ## **1 cmd commands**
