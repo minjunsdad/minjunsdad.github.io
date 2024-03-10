@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "첫 포스팅 입니다. 많은 성원 부탁드립니다."
+title:  "Windows cmd 명령어 모음"
 ---
 
 ## **1 cmd commands**
